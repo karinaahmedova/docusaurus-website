@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://karinaahmedova.github.io/docusaurus-website/blog</id>
+    <id>https://karinaahmedova.github.io/blog</id>
     <title>Karina Ahmedova Blog</title>
     <updated>2021-07-08T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://karinaahmedova.github.io/docusaurus-website/blog"/>
+    <link rel="alternate" href="https://karinaahmedova.github.io/blog"/>
     <subtitle>Karina Ahmedova Blog</subtitle>
-    <icon>https://karinaahmedova.github.io/docusaurus-website/img/favicon.ico</icon>
+    <icon>https://karinaahmedova.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>welcome</id>
-        <link href="https://karinaahmedova.github.io/docusaurus-website/blog/welcome"/>
+        <link href="https://karinaahmedova.github.io/blog/welcome"/>
         <updated>2021-07-08T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Hello!]]></summary>
     </entry>
