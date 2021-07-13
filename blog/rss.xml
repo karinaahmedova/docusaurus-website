@@ -2,14 +2,14 @@
 <rss version="2.0">
     <channel>
         <title>Karina Ahmedova Blog</title>
-        <link>https://karinaahmedova.github.io/blog</link>
+        <link>https://karinaahmedova.github.io/my-website/blog</link>
         <description>Karina Ahmedova Blog</description>
         <lastBuildDate>Thu, 08 Jul 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Welcome]]></title>
-            <link>https://karinaahmedova.github.io/blog/welcome</link>
+            <link>https://karinaahmedova.github.io/my-website/blog/welcome</link>
             <guid>welcome</guid>
             <pubDate>Thu, 08 Jul 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Hello!]]></description>
